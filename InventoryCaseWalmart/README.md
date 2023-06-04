@@ -1,0 +1,2 @@
+Task:
+For any product-based business, keeping track of all the items in their inventory is critical. Data Analysts use SQL to build an inventory management system to help business owners make critical decisions related to inventory planning. The Walmart is the world's largest company by revenue, with about US$570 billion in annual revenue, according to the Fortune Global 500 list in May 2022. The goal of this project is analysis of the Walmart sales.
